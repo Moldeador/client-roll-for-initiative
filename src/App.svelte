@@ -8,7 +8,7 @@
 
 <main>
   <div>
-    <a href="https://www.dmsguild.com/browse.php?author=Santiago%20Cabrera" target="_blank" rel="noreferrer">
+    <a href="https://www.dmsguild.com/product/352670/Mordenkainen-in-Barovia" target="_blank" rel="noreferrer">
       <img src={batLogo} class="logo" title={batDesciption} alt={batDesciption} />
     </a>
   </div>
