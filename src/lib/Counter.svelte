@@ -6,5 +6,5 @@
 </script>
 
 <button on:click={increment}>
-  count is {count}
+  Goblins lost in the name of science: {count}
 </button>
