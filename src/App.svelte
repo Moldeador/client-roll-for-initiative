@@ -31,6 +31,6 @@
     transition: filter 300ms;
   }
   .logo:hover {
-    filter: drop-shadow(0 0 2em #a50a0aaa);
+    filter: drop-shadow(0 0 2em DarkRed);
   }
 </style>
